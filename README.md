@@ -11,7 +11,7 @@ A simple Python utility to collect student details (Name, Roll Number, and Marks
 1. Ensure you have Python installed.
 2. Clone this repository:
    ```bash
-   git clone [https://github.com/arshdeepbansal12/student-marks-manager.git](https://github.com/arshdeepbansal/student-marks-manager.git)
+   git clone [https://github.com/arshdeepbansal12/student-marks-manager.git](https://github.com/arshdeepbansal12/student-marks-manager.git)
 
    Run the script:
 
