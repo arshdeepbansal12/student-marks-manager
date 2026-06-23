@@ -1,13 +1,3 @@
-'''Write a Python program to:
-
-Create a file named marks.txt
-Accept marks of 10 students
-Store them in the file
-Read the file and display:
-Highest marks
-Lowest marks
-Average marks
-'''
 mark=[]
 with open("marks.txt","a") as f:
     n=1
